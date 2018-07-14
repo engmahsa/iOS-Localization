@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Push Vc"; ObjectID = "GOz-VE-aSO"; */
+"GOz-VE-aSO.normalTitle" = "Push Vc";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "Rzc-Zp-mnR"; */
+"Rzc-Zp-mnR.title" = "Root View Controller";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "S8T-rS-HZ9"; */
+"S8T-rS-HZ9.title" = "Item 2";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "WVC-7f-bUV"; */
+"WVC-7f-bUV.title" = "Item";

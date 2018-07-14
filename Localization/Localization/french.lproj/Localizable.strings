@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Localization
+
+  Created by Mahsa on 12/17/17.
+*/
+"hi"="salut";
+"welcome"="Bienvenue";
+"Change language"="Changer de langue";
+"First" = "premier";
+"Second" = "seconde";
